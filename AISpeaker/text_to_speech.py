@@ -8,7 +8,7 @@ file_name = 'sample.mp3'
 
 #text파일 열기
 with open("sample.txt", 'r', encoding='utf8') as f:
-  text = f.read()
+    text = f.read()
 
 #ENG
 # text = 'can i help you?'
